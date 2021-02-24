@@ -92,3 +92,12 @@ cursor:pointer;}
     background-color:cyan;
     
 }
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: crimson;
+}
